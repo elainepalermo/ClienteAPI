@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elaine.palermo\\source\\repos\\ClienteAPIVB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1B5526-047F-4F3D-ADBB-93B3203EC540}|ClienteAPIVB\\ClienteAPIVB.vbproj|c:\\users\\elaine.palermo\\source\\repos\\clienteapivb\\clienteapivb\\presentation\\forms\\clienteform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9E1B5526-047F-4F3D-ADBB-93B3203EC540}|ClienteAPIVB\\ClienteAPIVB.vbproj|solutionrelative:clienteapivb\\presentation\\forms\\clienteform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1B5526-047F-4F3D-ADBB-93B3203EC540}|ClienteAPIVB\\ClienteAPIVB.vbproj|c:\\users\\elaine.palermo\\source\\repos\\clienteapivb\\clienteapivb\\presentation\\forms\\enderecoform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9E1B5526-047F-4F3D-ADBB-93B3203EC540}|ClienteAPIVB\\ClienteAPIVB.vbproj|solutionrelative:clienteapivb\\presentation\\forms\\enderecoform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1B5526-047F-4F3D-ADBB-93B3203EC540}|ClienteAPIVB\\ClienteAPIVB.vbproj|c:\\users\\elaine.palermo\\source\\repos\\clienteapivb\\clienteapivb\\presentation\\forms\\contatoform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9E1B5526-047F-4F3D-ADBB-93B3203EC540}|ClienteAPIVB\\ClienteAPIVB.vbproj|solutionrelative:clienteapivb\\presentation\\forms\\contatoform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1B5526-047F-4F3D-ADBB-93B3203EC540}|ClienteAPIVB\\ClienteAPIVB.vbproj|c:\\users\\elaine.palermo\\source\\repos\\clienteapivb\\clienteapivb\\presentation\\api\\apihost.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9E1B5526-047F-4F3D-ADBB-93B3203EC540}|ClienteAPIVB\\ClienteAPIVB.vbproj|solutionrelative:clienteapivb\\presentation\\api\\apihost.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1B5526-047F-4F3D-ADBB-93B3203EC540}|ClienteAPIVB\\ClienteAPIVB.vbproj|c:\\users\\elaine.palermo\\source\\repos\\clienteapivb\\clienteapivb\\infrastructure\\utils\\enderecoformhelper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9E1B5526-047F-4F3D-ADBB-93B3203EC540}|ClienteAPIVB\\ClienteAPIVB.vbproj|solutionrelative:clienteapivb\\infrastructure\\utils\\enderecoformhelper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnderecoForm.vb",
+              "DocumentMoniker": "C:\\Users\\elaine.palermo\\source\\repos\\ClienteAPIVB\\ClienteAPIVB\\Presentation\\Forms\\EnderecoForm.vb",
+              "RelativeDocumentMoniker": "ClienteAPIVB\\Presentation\\Forms\\EnderecoForm.vb",
+              "ToolTip": "C:\\Users\\elaine.palermo\\source\\repos\\ClienteAPIVB\\ClienteAPIVB\\Presentation\\Forms\\EnderecoForm.vb",
+              "RelativeToolTip": "ClienteAPIVB\\Presentation\\Forms\\EnderecoForm.vb",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAwwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-11T23:02:14.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContatoForm.vb",
+              "DocumentMoniker": "C:\\Users\\elaine.palermo\\source\\repos\\ClienteAPIVB\\ClienteAPIVB\\Presentation\\Forms\\ContatoForm.vb",
+              "RelativeDocumentMoniker": "ClienteAPIVB\\Presentation\\Forms\\ContatoForm.vb",
+              "ToolTip": "C:\\Users\\elaine.palermo\\source\\repos\\ClienteAPIVB\\ClienteAPIVB\\Presentation\\Forms\\ContatoForm.vb",
+              "RelativeToolTip": "ClienteAPIVB\\Presentation\\Forms\\ContatoForm.vb",
+              "ViewState": "AgIAAOUAAAAAAAAAAADwv8sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-11T23:01:34.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteForm.vb",
+              "DocumentMoniker": "C:\\Users\\elaine.palermo\\source\\repos\\ClienteAPIVB\\ClienteAPIVB\\Presentation\\Forms\\ClienteForm.vb",
+              "RelativeDocumentMoniker": "ClienteAPIVB\\Presentation\\Forms\\ClienteForm.vb",
+              "ToolTip": "C:\\Users\\elaine.palermo\\source\\repos\\ClienteAPIVB\\ClienteAPIVB\\Presentation\\Forms\\ClienteForm.vb*",
+              "RelativeToolTip": "ClienteAPIVB\\Presentation\\Forms\\ClienteForm.vb*",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAAwFQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-11T22:59:50.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiHost.vb",
+              "DocumentMoniker": "C:\\Users\\elaine.palermo\\source\\repos\\ClienteAPIVB\\ClienteAPIVB\\Presentation\\API\\ApiHost.vb",
+              "RelativeDocumentMoniker": "ClienteAPIVB\\Presentation\\API\\ApiHost.vb",
+              "ToolTip": "C:\\Users\\elaine.palermo\\source\\repos\\ClienteAPIVB\\ClienteAPIVB\\Presentation\\API\\ApiHost.vb",
+              "RelativeToolTip": "ClienteAPIVB\\Presentation\\API\\ApiHost.vb",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwBQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-11T22:59:32.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnderecoFormHelper.vb",
+              "DocumentMoniker": "C:\\Users\\elaine.palermo\\source\\repos\\ClienteAPIVB\\ClienteAPIVB\\Infrastructure\\Utils\\EnderecoFormHelper.vb",
+              "RelativeDocumentMoniker": "ClienteAPIVB\\Infrastructure\\Utils\\EnderecoFormHelper.vb",
+              "ToolTip": "C:\\Users\\elaine.palermo\\source\\repos\\ClienteAPIVB\\ClienteAPIVB\\Infrastructure\\Utils\\EnderecoFormHelper.vb",
+              "RelativeToolTip": "ClienteAPIVB\\Infrastructure\\Utils\\EnderecoFormHelper.vb",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-11T22:59:09.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

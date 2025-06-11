@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Elaine Cristina Palermo",
+    "Email": "elaine.palermo.ecp@gmail.com",
+    "CPF": "111.111.111-12",
+    "RG": "11.111.111-2",
+    "Contatos": [
+      {
+        "Id": 2,
+        "Tipo": "Residencial",
+        "DDD": 11,
+        "Telefone": 111111111.0
+      }
+    ],
+    "Enderecos": [
+      {
+        "Id": 2,
+        "Tipo": "Cobrança",
+        "CEP": "06660-171",
+        "Logradouro": "endereço cobrança",
+        "Numero": 178,
+        "Bairro": "endereço cobrança",
+        "Complemento": "endereço cobrança",
+        "Cidade": "endereço cobrança",
+        "Estado": "SP",
+        "Referencia": "endereço cobrança"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Nome": "Arthur Palermo",
+    "Email": "apalermo@gmail.com",
+    "CPF": "111.111.111-11",
+    "RG": "11.111.111-1",
+    "Contatos": [
+      {
+        "Id": 1,
+        "Tipo": "Residencial",
+        "DDD": 11,
+        "Telefone": 12345678.0
+      }
+    ],
+    "Enderecos": null
+  }
+]
